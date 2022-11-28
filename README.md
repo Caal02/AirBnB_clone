@@ -4,7 +4,7 @@
 server a simple copy of the AirBnB website.
 ## Description of the command interpreter:
 ###	A command interpreter allows the user to interact with a program using commands in the form of text lines.
-### * The shell should work like this in interactive mode:
+* The shell should work like this in interactive mode:
 	$ ./console.py
-### The shell works also in non-interactive mode:
+* The shell works also in non-interactive mode:
 	$ echo "help" | ./console.py
